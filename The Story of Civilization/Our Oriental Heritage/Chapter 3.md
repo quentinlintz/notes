@@ -10,4 +10,4 @@ Custom comes from the people, but law is forced on them from above.
 
 The concept that a man's wife is the closest relation he has is a relatively modern concept.
 
-Women were responsible for most eceonomic advancements in early society.
+Women were responsible for most economic advancements in early society.
