@@ -1,6 +1,6 @@
 ### Chapter 3: Political Elements of Civilization
 
-"Societies are ruled by two powers: in peace by the word, in crises by the sword" (p. 22)
+>Societies are ruled by two powers: in peace by the word, in crises by the sword (p. 22)
 
 War led to the break-up of primitive communism, establishment of organization and discipline, and creation of classes and governance.
 

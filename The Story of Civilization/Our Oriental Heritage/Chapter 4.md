@@ -13,6 +13,6 @@ The snake represented sex as the origin of evil.
 
 Hygiene was taught by religion rather than science.
 
-"Morals slowly adjust themselves to economic invention, and religion reluctantly adjusts itself to moral change." (pp. 70, 71)
+>Morals slowly adjust themselves to economic invention, and religion reluctantly adjusts itself to moral change. (pp. 70, 71)
 
 
