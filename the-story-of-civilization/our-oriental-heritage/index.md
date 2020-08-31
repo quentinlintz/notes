@@ -1,7 +1,7 @@
 Introduction: The Establishment of Civilization
   * [Chapter 1: The Conditions of Civilization](./the-story-of-civilization/our-oriental-heritage/01)
   * [Chapter 2: The Economics Elements of Civilization](./the-story-of-civilization/our-oriental-heritage/02)
-  * [Chapter 3: Political Elements of Civilization](./the-story-of-civilization/our-oriental-heritage/03)
+  * [Chapter 3: The Political Elements of Civilization](./the-story-of-civilization/our-oriental-heritage/03)
   * [Chapter 4: The Moral Elements of Civilization](./the-story-of-civilization/our-oriental-heritage/04)
   * [Chapter 5: The Mental Elements of Civilization](./the-story-of-civilization/our-oriental-heritage/05)
   * [Chapter 6: The Prehistoric Beginnings of Civilization](./the-story-of-civilization/our-oriental-heritage/06)
