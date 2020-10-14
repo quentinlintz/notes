@@ -9,3 +9,4 @@ Introduction: The Establishment of Civilization
 Book 1: The Near East
   * [Chapter 7: Sumeria](./the-story-of-civilization/our-oriental-heritage/07)
   * [Chapter 8: Egypt](./the-story-of-civilization/our-oriental-heritage/08)
+  * [Chapter 9: Babylonia](./the-story-of-civilization/our-oriental-heritage/09)
