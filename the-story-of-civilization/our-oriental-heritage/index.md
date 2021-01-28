@@ -13,3 +13,4 @@ Book 1: The Near East
   * [Chapter 10: Assyria](./the-story-of-civilization/our-oriental-heritage/10)
   * [Chapter 11: A Motley of Nations](./the-story-of-civilization/our-oriental-heritage/11)
   * [Chapter 12: Judea](./the-story-of-civilization/our-oriental-heritage/12)
+  * [Chapter 13: Persia](./the-story-of-civilization/our-oriental-heritage/13)
